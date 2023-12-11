@@ -1,0 +1,86 @@
+{
+    "students": [
+        {
+            "SNo": "1",
+            "Name": "Mani ",
+            "Gender": "M",
+            "MobileNo": "9876543210",
+            "Email": "mani@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "2",
+            "Name": "Abbas",
+            "Gender": "M",
+            "MobileNo": "8976543210",
+            "Email": "abbas@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "3",
+            "Name": "Akhila",
+            "Gender": "F",
+            "MobileNo": "7896543210",
+            "Email": "akhila@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "4",
+            "Name": "Kalyan",
+            "Gender": "M",
+            "MobileNo": "6789054321",
+            "Email": "kalyan@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "5",
+            "Name": "Sivaram",
+            "Gender": "M",
+            "MobileNo": "6543217890",
+            "Email": "sivaram@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "6",
+            "Name": "Haritha",
+            "Gender": "F",
+            "MobileNo": "7654321890",
+            "Email": "haritha@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "7",
+            "Name": "Swaroop",
+            "Gender": "M",
+            "MobileNo": "8765432190",
+            "Email": "swaroop@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "8",
+            "Name": "Pavani",
+            "Gender": "F",
+            "MobileNo": "9012345678",
+            "Email": "pavani@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "9",
+            "Name": "Rose",
+            "Gender": "F",
+            "MobileNo": "9786543210",
+            "Email": "rose@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        },
+        {
+            "SNo": "10",
+            "Name": "Sandeep",
+            "Gender": "M",
+            "MobileNo": "6098754321",
+            "Email": "sandeep@gmail.com",
+            "Education": ["B.Tech", "Degree", "B.COM", "Phd", "Inter", "School"]
+        }
+    ]
+}
+
+

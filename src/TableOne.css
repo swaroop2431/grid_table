@@ -1,0 +1,21 @@
+.table__container{
+    flex: 1;
+}
+.table__one{
+    border-collapse: collapse;
+}
+.table__two {
+    border-collapse: collapse;
+}
+.table__one th,
+.table__one td,
+.table__two th,
+.table__two td{
+    border: 1px solid lightblue;
+    text-align: center;
+    padding: 10px;
+}
+.table__one th,
+.table__two th{
+    background-color: #f2f2f2;
+}  
